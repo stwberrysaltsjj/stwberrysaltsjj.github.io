@@ -9,5 +9,9 @@
     	<h1> Badtz-maru </h1>
     </div>
 	<p>Sanrio Character</p>
-	</body>
+	<img src="https://wallpapers-clan.com/wp-content/uploads/2022/07/kuromi-pfp-3.jpg" alt = "kuromi" />
+    	<h1> Kuromi </h1>
+    </div>
+	<p>Sanrio Character</p>
+</body>
 </html>
