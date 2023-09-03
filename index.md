@@ -8,13 +8,13 @@
 <table>
   <tr>
     <th>
-	 <img src="https://i.pinimg.com/474x/2f/aa/03/2faa03efeee3137f39a4356d59b695f0.jpg" alt = "Badtz-maru" />
+	<img src="https://i.pinimg.com/474x/2f/aa/03/2faa03efeee3137f39a4356d59b695f0.jpg" alt = "Badtz-maru" style="width:500px;height:600px" />
     	<h1> Badtz-maru </h1>
     </div>
-	<p>Sanrio Character</p>
+	<p>sanrio.char</p>
     </th>
     <th>
-	<img src="https://wallpapers-clan.com/wp-content/uploads/2022/07/kuromi-pfp-3.jpg" alt = "kuromi" />
+	<img src="https://wallpapers-clan.com/wp-content/uploads/2022/07/kuromi-pfp-3.jpg" alt = "kuromi" style="width:500px;height:600px"/>
     	<h1> Kuromi </h1>
     </div>
 	<p>Sanrio Character</p>
