@@ -46,6 +46,11 @@
     </div>
     </th>
     <th>
+	<img src="https://i.pinimg.com/564x/1d/9c/fa/1d9cfa5b7db062a939a8930b2ce4e8be.jpg" alt = "Cinnamoroll" style="width:250px;height:250px"/>
+    	<h1> Cinnamoroll </h1>
+    <div>
+	<p>Sanrio Character</p>
+    </div>
     </th>
   </tr>
 </table>
