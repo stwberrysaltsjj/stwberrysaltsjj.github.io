@@ -8,7 +8,7 @@
 <table>
   <tr>
     <th>
-	<img src="https://i.pinimg.com/474x/2f/aa/03/2faa03efeee3137f39a4356d59b695f0.jpg" alt = "Badtz-maru" style="width:500px;height:600px" />
+	<img src="https://i.pinimg.com/474x/2f/aa/03/2faa03efeee3137f39a4356d59b695f0.jpg" alt = "Badtz-maru" style="width:800px;height:800px" />
     	<h1> Badtz-maru </h1>
     </div>
 	<p>sanrio.char</p>
