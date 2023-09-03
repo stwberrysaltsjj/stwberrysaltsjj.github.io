@@ -39,7 +39,7 @@
     </div>
     </th>
     <th>
-	<img src="https://i.pinimg.com/564x/92/de/e0/92dee0a7b6516a5f9149e80b0cae123f.jpg" alt = "Chibimaru" style="width:250px;height:250px"/>
+	<img src="https://i.pinimg.com/1200x/09/6a/1e/096a1e18f9c623c2536ed65d860df326.jpg" alt = "Chococat" style="width:250px;height:250px"/>
     	<h1> Chococat </h1>
     <div>
 	<p>Sanrio Character</p>
