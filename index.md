@@ -27,7 +27,7 @@
     </th>
   </tr>
 	
-  </tr>
+  <tr>
     </th>
 	<img src="https://i.pinimg.com/564x/92/de/e0/92dee0a7b6516a5f9149e80b0cae123f.jpg" alt = "Chibimaru" style="width:250px;height:250px"/>
     	<h1> Chibimaru </h1>
