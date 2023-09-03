@@ -33,6 +33,9 @@
     </div>
 	<p>Sanrio Character</p>
     </th>
+    </th>
+    </th>
+    </th>
   </tr>
 </table>
 </body>
