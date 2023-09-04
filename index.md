@@ -85,7 +85,7 @@
     </div>
     </th>
     <th>
-	<img src="https://wallpapers-clan.com/wp-content/uploads/2022/07/kuromi-pfp-3.jpg" alt = "Kuromi" style="width:250px;height:250px"/>
+	<img src="https://i.pinimg.com/564x/d6/84/06/d684069d7b01f4e8abc9e2fe4fdc9fbd.jpg" alt = "Kuromi" style="width:250px;height:250px"/>
     	<h1> Kuromi </h1>
     <div>
 	<p>Sanrio Character</p>
@@ -102,22 +102,31 @@
 
   <tr>
       <th>
-	<img src="" alt = "Kuromi" style="width:250px;height:250px"/>
-    	<h1> Kuromi </h1>
+	<img src="https://i.pinimg.com/564x/ed/12/1f/ed121f003e05a73a0d7e98221fd1a272.jpg" alt = "Mimmy" style="width:250px;height:250px"/>
+    	<h1> Mimmy </h1>
     <div>
 	<p>Sanrio Character</p>
     </div>
       </th>
       <th>
-	<img src="" alt = "Kuromi" style="width:250px;height:250px"/>
-    	<h1> Kuromi </h1>
+	<img src="https://i.pinimg.com/564x/6c/11/ea/6c11ea7c4bfe698b857af19526dd7b68.jpg" alt = "My Melody" style="width:250px;height:250px"/>
+    	<h1> My Melody </h1>
     <div>
 	<p>Sanrio Character</p>
     </div>
       </th>
       <th>
-	<img src="" alt = "Kuromi" style="width:250px;height:250px"/>
-    	<h1> Kuromi </h1>
+	<img src="https://i.pinimg.com/750x/31/6a/59/316a59ef97ec56d22e71ab2d913d1f05.jpg" alt = "Pochacco" style="width:250px;height:250px"/>
+    	<h1> Pochacco </h1>
+    <div>
+	<p>Sanrio Character</p>
+    </div>
+      </th>
+  </tr>
+  <tr>
+      <th>
+	<img src="https://i.pinimg.com/564x/30/8c/79/308c799fe9423d5ba79f3945957c19ae.jpg" alt = "Pompompurin" style="width:250px;height:250px"/>
+    	<h1> Pompompurin </h1>
     <div>
 	<p>Sanrio Character</p>
     </div>
