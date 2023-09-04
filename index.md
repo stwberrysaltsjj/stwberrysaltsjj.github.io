@@ -99,6 +99,30 @@
     </div>
     </th>
   </tr>
+
+  <tr>
+      <th>
+	<img src="" alt = "Kuromi" style="width:250px;height:250px"/>
+    	<h1> Kuromi </h1>
+    <div>
+	<p>Sanrio Character</p>
+    </div>
+      </th>
+      <th>
+	<img src="" alt = "Kuromi" style="width:250px;height:250px"/>
+    	<h1> Kuromi </h1>
+    <div>
+	<p>Sanrio Character</p>
+    </div>
+      </th>
+      <th>
+	<img src="" alt = "Kuromi" style="width:250px;height:250px"/>
+    	<h1> Kuromi </h1>
+    <div>
+	<p>Sanrio Character</p>
+    </div>
+      </th>
+  </tr>
 </table>
 </body>
 </html>
