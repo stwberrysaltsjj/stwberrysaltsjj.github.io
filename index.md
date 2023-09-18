@@ -42,9 +42,5 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | **My Melody**  |  **Pochacco** |
 | sanrio.char         | sanrio.char       |
 
-| <img src="https://i.pinimg.com/564x/30/8c/79/308c799fe9423d5ba79f3945957c19ae.jpg" alt = "Pompompurin" style="width:250px;height:250px"/> |
-| :---: | :---: |
-| **Pompompurin**  | 
-| sanrio.char         |
 
 
