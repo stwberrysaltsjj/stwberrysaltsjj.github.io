@@ -1,4 +1,4 @@
-### Table with figures
+### SANRIO CHARACTERS
 
 <!---
 github stop support image resize in []() format
