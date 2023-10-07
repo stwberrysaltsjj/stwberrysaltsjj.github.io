@@ -27,7 +27,6 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | :---: | :---: |
 | **Keroppi**  |  **Kuromi** |
 | sanrio.char         | Sanrio Character       |
-
 | <img src="https://i.pinimg.com/564x/44/3b/d4/443bd4de657572085c92f7ad78e35974.jpg" alt="Little Twin Stars" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/ed/12/1f/ed121f003e05a73a0d7e98221fd1a272.jpg" alt="Mimmy" style="width:250px;height:250px" /> |
 | **Little Twin Stars**  |  **Mimmy** |
 | sanrio.char         | Sanrio Character       |
