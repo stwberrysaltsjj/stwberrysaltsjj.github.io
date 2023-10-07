@@ -19,7 +19,6 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | :---: | :---: |
 | **Dear Daniel**  |  **Deery-Lou** |
 | sanrio.char         | Sanrio Character       |
-
 | <img src="https://i.pinimg.com/564x/84/a0/74/84a07434d8b01e4996013dcc6de721a3.jpg" alt="Hello Kitty" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/45/48/49/454849fad4226a3dd949883b9c554f91.jpg" alt="Jewelpet" style="width:250px;height:250px" /> |
 | **Hello Kitty**  |  **Jewelpet** |
 | sanrio.char         | Sanrio Character       |
