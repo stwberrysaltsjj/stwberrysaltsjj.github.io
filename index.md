@@ -36,8 +36,6 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | **My Melody**  |  **Pochacco** |
 | sanrio.char         | Sanrio Character       |
 
-<table>
-  <tr>
 
 
   
