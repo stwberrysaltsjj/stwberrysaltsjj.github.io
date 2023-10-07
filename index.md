@@ -19,16 +19,20 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | :---: | :---: |
 | **Dear Daniel**  |  **Deery-Lou** |
 | sanrio.char         | Sanrio Character       |
+
 | <img src="https://i.pinimg.com/564x/84/a0/74/84a07434d8b01e4996013dcc6de721a3.jpg" alt="Hello Kitty" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/45/48/49/454849fad4226a3dd949883b9c554f91.jpg" alt="Jewelpet" style="width:250px;height:250px" /> |
 | **Hello Kitty**  |  **Jewelpet** |
 | sanrio.char         | Sanrio Character       |
+
 | <img src="https://i.pinimg.com/564x/ea/ae/b5/eaaeb5a83b36c7386c72be8bfcfc14f0.jpg" alt="Keroppi" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/d6/84/06/d684069d7b01f4e8abc9e2fe4fdc9fbd.jpg" alt="Kuromi" style="width:250px;height:250px" /> |
 | :---: | :---: |
 | **Keroppi**  |  **Kuromi** |
 | sanrio.char         | Sanrio Character       |
+
 | <img src="https://i.pinimg.com/564x/44/3b/d4/443bd4de657572085c92f7ad78e35974.jpg" alt="Little Twin Stars" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/ed/12/1f/ed121f003e05a73a0d7e98221fd1a272.jpg" alt="Mimmy" style="width:250px;height:250px" /> |
 | **Little Twin Stars**  |  **Mimmy** |
 | sanrio.char         | Sanrio Character       |
+
 | <img src="https://i.pinimg.com/564x/6c/11/ea/6c11ea7c4bfe698b857af19526dd7b68.jpg" alt="My Melody" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/750x/31/6a/59/316a59ef97ec56d22e71ab2d913d1f05.jpg" alt="Pochacco" style="width:250px;height:250px" /> |
 | :---: | :---: |
 | **My Melody**  |  **Pochacco** |
