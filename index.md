@@ -15,7 +15,7 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | **Chococat**  |  **Cinnamoroll** |
 | sanrio.char         | Sanrio Character       |
 
-| img src="https://i.pinimg.com/564x/de/11/a6/de11a621fda227847d2895c8eeb4f6f6.jpg" alt="Dear Daniel" style="width:250px;height:250px" /> | img src="https://i.pinimg.com/564x/8d/bb/da/8dbbdadcefe5a3a7099565dc3b07e9d2.jpg" alt="Deery-Lou" style="width:250px;height:250px" /> |
+| <img src="https://i.pinimg.com/564x/de/11/a6/de11a621fda227847d2895c8eeb4f6f6.jpg" alt="Dear Daniel" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/8d/bb/da/8dbbdadcefe5a3a7099565dc3b07e9d2.jpg" alt="Deery-Lou" style="width:250px;height:250px" /> |
 | :---: | :---: |
 | **Dear Daniel**  |  **Deery-Lou** |
 | sanrio.char         | Sanrio Character       |
