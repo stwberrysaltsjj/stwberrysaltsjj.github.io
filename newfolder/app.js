@@ -1,5 +1,6 @@
 const fileInput = document.getElementById("file-input");
 const image = document.getElementById("image");
+let model;
 
 /**
  * Get the image from file input and display on page
@@ -12,21 +13,20 @@ function getImage() {
   // Get the data url form the image
   const reader = new FileReader();
 
-  // When reader is ready display image.
+  // When reader is ready display image
   reader.onload = function (event) {
-    image.setAttribute("src", event.target.result);
+    const dataUrl = event.target.result;
+    image.setAttribute("src", dataUrl);
     document.body.classList.add("image-loaded");
   };
 
-  // Get data url
+  // Get data URL
   reader.readAsDataURL(file);
 }
 
 /**
- * When user uploads a new image, display the new image on the webpage
+ * Load model
  */
-fileInput.addEventListener("change", getImage);
-// Async loading
 mobilenet.load().then(function (m) {
   // Save model
   model = m;
