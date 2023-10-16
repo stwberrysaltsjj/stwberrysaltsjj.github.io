@@ -1,6 +1,35 @@
 const fileInput = document.getElementById("file-input");
 const image = document.getElementById("image");
+const description = document.getElementById("prediction");
+
 let model;
+
+/**
+ * Display the result in the page
+ */
+function displayDescription(predictions) {
+  // Sort by probability
+  const result = predictions.sort((a, b) => a > b)[0];
+
+  if (result.probability > 0.2) {
+    const probability = Math.round(result.probability * 100);
+
+    // Display result
+    description.innerText = `${probability}% shure this is a ${result.className.replace(
+      ",",
+      " or"
+    )} 🐶`;
+  } else description.innerText = "I am not shure what I should recognize 😢";
+}
+
+/**
+ * Classify with the image with the mobilenet model
+ */
+function classifyImage() {
+  model.classify(image).then((predictions) => {
+    displayDescription(predictions);
+  });
+}
 
 /**
  * Get the image from file input and display on page
@@ -15,8 +44,25 @@ function getImage() {
 
   // When reader is ready display image
   reader.onload = function (event) {
+    // Ge the data url
     const dataUrl = event.target.result;
-    image.setAttribute("src", dataUrl);
+
+    // Create image object
+    const imageElement = new Image();
+    imageElement.src = dataUrl;
+
+    // When image object is loaded
+    imageElement.onload = function () {
+      // Set <img /> attributes
+      image.setAttribute("src", this.src);
+      image.setAttribute("height", this.height);
+      image.setAttribute("width", this.width);
+
+      // Classify image
+      classifyImage();
+    };
+
+    // Add the image-loaded class to the body
     document.body.classList.add("image-loaded");
   };
 
@@ -27,7 +73,7 @@ function getImage() {
 /**
  * Load model
  */
-mobilenet.load().then(function (m) {
+mobilenet.load().then((m) => {
   // Save model
   model = m;
 
@@ -37,15 +83,3 @@ mobilenet.load().then(function (m) {
   // When user uploads a new image, display the new image on the webpage
   fileInput.addEventListener("change", getImage);
 });
-function classifyImage() {
-  model.classify(image).then(function (predictions) {
-    console.log("Predictions: ");
-    console.log(predictions);
-  });
-}
-function classifyImage() {
-  model.classify(image).then((predictions) => {
-    displayDescription(predictions);
-  });
-}
-
