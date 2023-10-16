@@ -26,3 +26,14 @@ function getImage() {
  * When user uploads a new image, display the new image on the webpage
  */
 fileInput.addEventListener("change", getImage);
+// Async loading
+mobilenet.load().then(function (m) {
+  // Save model
+  model = m;
+
+  // Remove loading class from body
+  document.body.classList.remove("loading");
+
+  // When user uploads a new image, display the new image on the webpage
+  fileInput.addEventListener("change", getImage);
+});
