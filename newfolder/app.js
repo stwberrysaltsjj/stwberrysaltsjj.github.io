@@ -43,4 +43,9 @@ function classifyImage() {
     console.log(predictions);
   });
 }
+function classifyImage() {
+  model.classify(image).then((predictions) => {
+    displayDescription(predictions);
+  });
+}
 
