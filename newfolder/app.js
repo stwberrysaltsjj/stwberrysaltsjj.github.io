@@ -37,3 +37,10 @@ mobilenet.load().then(function (m) {
   // When user uploads a new image, display the new image on the webpage
   fileInput.addEventListener("change", getImage);
 });
+function classifyImage() {
+  model.classify(image).then(function (predictions) {
+    console.log("Predictions: ");
+    console.log(predictions);
+  });
+}
+
