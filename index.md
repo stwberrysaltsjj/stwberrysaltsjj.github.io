@@ -11,7 +11,9 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | :---: | :---: |
 | **Badtz-maru**  |  **Charmmy Kitty** |
 | sanrio.char         | Sanrio Character       |
+
 | <img src="https://i.pinimg.com/1200x/09/6a/1e/096a1e18f9c623c2536ed65d860df326.jpg" alt="Chococat" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/1d/9c/fa/1d9cfa5b7db062a939a8930b2ce4e8be.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> |
+| :---: | :---: |
 | **Chococat**  |  **Cinnamoroll** |
 | sanrio.char         | Sanrio Character       |
 
@@ -19,7 +21,9 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | :---: | :---: |
 | **Dear Daniel**  |  **Deery-Lou** |
 | sanrio.char         | Sanrio Character       |
+
 | <img src="https://i.pinimg.com/564x/84/a0/74/84a07434d8b01e4996013dcc6de721a3.jpg" alt="Hello Kitty" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/45/48/49/454849fad4226a3dd949883b9c554f91.jpg" alt="Jewelpet" style="width:250px;height:250px" /> |
+| :---: | :---: |
 | **Hello Kitty**  |  **Jewelpet** |
 | sanrio.char         | Sanrio Character       |
 
@@ -27,7 +31,9 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | :---: | :---: |
 | **Keroppi**  |  **Kuromi** |
 | sanrio.char         | Sanrio Character       |
+
 | <img src="https://i.pinimg.com/564x/44/3b/d4/443bd4de657572085c92f7ad78e35974.jpg" alt="Little Twin Stars" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/ed/12/1f/ed121f003e05a73a0d7e98221fd1a272.jpg" alt="Mimmy" style="width:250px;height:250px" /> |
+| :---: | :---: |
 | **Little Twin Stars**  |  **Mimmy** |
 | sanrio.char         | Sanrio Character       |
 
