@@ -10,7 +10,6 @@ let model;
 function displayDescription(predictions) {
   // Sort by probability
   const result = predictions.sort((a, b) => b > a)[0];
- FileSystem.out.println(result);
 
   if (result.probability > 0.2) {
     const probability = Math.round(result.probability * 100);
@@ -19,7 +18,7 @@ function displayDescription(predictions) {
     description.innerText = `${probability}% shure this is a ${result.className.replace(
       ",",
       " or"
-    )} 🐶
+    )} 🐶;
   } else description.innerText = "I am not shure what I should recognize 😢";
 }
 
