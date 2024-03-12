@@ -18,7 +18,7 @@ function displayDescription(predictions) {
     description.innerText = `${probability}% shure this is a ${result.className.replace(
       ",",
       " or"
-    )} 🐶;
+    )} 🐶`;
   } else description.innerText = "I am not shure what I should recognize 😢";
 }
 
