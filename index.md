@@ -15,7 +15,7 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | <img src="https://i.pinimg.com/736x/cb/03/c0/cb03c043436e124555c3f37ba614ac6b.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/19/3f/fd/193ffd65f0f0c34dcff9c28c1c7435ae.jpg" alt="Dear Daniel" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/35/fe/4b/35fe4b8056b0449d6695d6a8ad535377.jpg" alt="Hangyodon" style="width:250px;height:250px" /> |
 | :---: | :---: | :---: |
 | **Cinnamoroll**  |  **Dear Daniel** |  **Hangyodon** |
-| sanrio.char         | Sanrio Character       | Sanrio Character       |
+| Cinnamoroll (シナモロール, Hepburn: Shinamorōru) Birthday: March 6, 2001        | Dear Daniel (ディアダニエル, Dia Danieru) Birthday: May 3, 1999       | Hangyodon (ハンギョドン, Hangyodon) Birthday: March 14, 1985       |
 
 | <img src="https://i.pinimg.com/564x/a2/82/e5/a282e52839ad56dd1c19839ef0052de7.jpg" alt="Hello Kitty" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/45/48/49/454849fad4226a3dd949883b9c554f91.jpg" alt="Jewelpet" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/736x/28/97/84/28978488aeee8b70b5253ddd092199c2.jpg" alt="Keroppi" style="width:250px;height:250px" /> |
 | :---: | :---: | :---: |
