@@ -30,7 +30,7 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | <img src="https://i.pinimg.com/564x/8a/fb/8c/8afb8c7b19dd0a95aef8cd6693c99178.jpg" alt="My Melody" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/54/a4/6e/54a46ef358050ef69711a538216f4b4f.jpg" alt="Pochacco" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/b8/ff/1a/b8ff1a28700d2956bb82915e90e4822b.jpg" alt="Pompompurin" style="width:250px;height:250px" /> |
 | :---: | :---: | :---: |
 | **My Melody**  |  **Pochacco** |  **Pompompurin** |
-| sanrio.char         | Sanrio Character       | Sanrio Character       |
+| My Melody (マイメロディ, Mai Merodi) Birthday: January 18, 1975         | Pochacco (ポチャッコ, Pochakko) Birthday: Febuary 29, 1989       | Pompompurin (ポムポムプリン, Pomupomupurin) Birthday: April 16, 1996       |
 
 [badtz-maru](badtz-maru/)  [newfolder](newfolder/)   [folderone](newfolder/)
 
