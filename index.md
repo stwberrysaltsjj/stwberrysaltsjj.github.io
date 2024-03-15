@@ -22,7 +22,7 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | **Hello Kitty**  |  **Jewelpet** | **Keroppi**  |
 | sanrio.char         | Sanrio Character       | Sanrio Character       |
 
-| <img src="https://i.pinimg.com/564x/d6/84/06/d684069d7b01f4e8abc9e2fe4fdc9fbd.jpg" alt="Kuromi" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/44/3b/d4/443bd4de657572085c92f7ad78e35974.jpg" alt="Little Twin Stars" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/ed/12/1f/ed121f003e05a73a0d7e98221fd1a272.jpg" alt="Mimmy" style="width:250px;height:250px" /> |
+| <img src="https://i.pinimg.com/564x/4e/d0/57/4ed057920375d08d96bc6a5ac54c9f54.jpg" alt="Kuromi" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/44/3b/d4/443bd4de657572085c92f7ad78e35974.jpg" alt="Little Twin Stars" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/ed/12/1f/ed121f003e05a73a0d7e98221fd1a272.jpg" alt="Mimmy" style="width:250px;height:250px" /> |
 | :---: | :---: | :---: |
 |  **Kuromi** | **Little Twin Stars**  |  **Mimmy** |
 | sanrio.char         | Sanrio Character       | Sanrio Character       |
