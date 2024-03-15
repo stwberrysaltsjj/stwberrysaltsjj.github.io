@@ -27,7 +27,7 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 |  **Kuromi** | **Little Twin Stars**  |  **Mimmy** |
 | sanrio.char         | Sanrio Character       | Sanrio Character       |
 
-| <img src="https://i.pinimg.com/564x/87/27/cf/8727cf2dc9f1d59dec07bf30185f22ec.jpg" alt="My Melody" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/750x/31/6a/59/316a59ef97ec56d22e71ab2d913d1f05.jpg" alt="Pochacco" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/69/49/2d/69492d2b4bc73597d2bc2c8e82aa37bc.jpg" alt="Pompompurin" style="width:250px;height:250px" /> |
+| <img src="https://i.pinimg.com/564x/87/27/cf/8727cf2dc9f1d59dec07bf30185f22ec.jpg" alt="My Melody" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/a4/74/08/a47408fc0eff126043fdf2c806971089.jpg" alt="Pochacco" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/69/49/2d/69492d2b4bc73597d2bc2c8e82aa37bc.jpg" alt="Pompompurin" style="width:250px;height:250px" /> |
 | :---: | :---: | :---: |
 | **My Melody**  |  **Pochacco** |  **Pompompurin** |
 | sanrio.char         | Sanrio Character       | Sanrio Character       |
