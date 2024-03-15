@@ -13,29 +13,24 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | sanrio.char         | Sanrio Character       | Sanrio Character       |
 
 | <img src="https://i.pinimg.com/564x/1d/9c/fa/1d9cfa5b7db062a939a8930b2ce4e8be.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/de/11/a6/de11a621fda227847d2895c8eeb4f6f6.jpg" alt="Dear Daniel" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/d4/e2/5f/d4e25f1442ed8cfe66380991fe291031.jpg" alt="Hangyodon" style="width:250px;height:250px" /> |
-| :---: | :---: | :--: |
+| :---: | :---: | :---: |
 | **Cinnamoroll**  |  **Dear Daniel** |  **Hangyodon** |
 | sanrio.char         | Sanrio Character       | Sanrio Character       |
 
-| <img src="https://i.pinimg.com/564x/84/a0/74/84a07434d8b01e4996013dcc6de721a3.jpg" alt="Hello Kitty" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/45/48/49/454849fad4226a3dd949883b9c554f91.jpg" alt="Jewelpet" style="width:250px;height:250px" /> |
-| :---: | :---: |
-| **Hello Kitty**  |  **Jewelpet** |
-| sanrio.char         | Sanrio Character       |
+| <img src="https://i.pinimg.com/564x/84/a0/74/84a07434d8b01e4996013dcc6de721a3.jpg" alt="Hello Kitty" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/45/48/49/454849fad4226a3dd949883b9c554f91.jpg" alt="Jewelpet" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/ea/ae/b5/eaaeb5a83b36c7386c72be8bfcfc14f0.jpg" alt="Keroppi" style="width:250px;height:250px" /> |
+| :---: | :---: | :---: |
+| **Hello Kitty**  |  **Jewelpet** | **Keroppi**  |
+| sanrio.char         | Sanrio Character       | Sanrio Character       |
 
-| <img src="https://i.pinimg.com/564x/ea/ae/b5/eaaeb5a83b36c7386c72be8bfcfc14f0.jpg" alt="Keroppi" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/d6/84/06/d684069d7b01f4e8abc9e2fe4fdc9fbd.jpg" alt="Kuromi" style="width:250px;height:250px" /> |
-| :---: | :---: |
-| **Keroppi**  |  **Kuromi** |
-| sanrio.char         | Sanrio Character       |
+| <img src="https://i.pinimg.com/564x/d6/84/06/d684069d7b01f4e8abc9e2fe4fdc9fbd.jpg" alt="Kuromi" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/44/3b/d4/443bd4de657572085c92f7ad78e35974.jpg" alt="Little Twin Stars" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/ed/12/1f/ed121f003e05a73a0d7e98221fd1a272.jpg" alt="Mimmy" style="width:250px;height:250px" /> |
+| :---: | :---: | :---: |
+|  **Kuromi** | **Little Twin Stars**  |  **Mimmy** |
+| sanrio.char         | Sanrio Character       | Sanrio Character       |
 
-| <img src="https://i.pinimg.com/564x/44/3b/d4/443bd4de657572085c92f7ad78e35974.jpg" alt="Little Twin Stars" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/ed/12/1f/ed121f003e05a73a0d7e98221fd1a272.jpg" alt="Mimmy" style="width:250px;height:250px" /> |
-| :---: | :---: |
-| **Little Twin Stars**  |  **Mimmy** |
-| sanrio.char         | Sanrio Character       |
-
-| <img src="https://i.pinimg.com/564x/6c/11/ea/6c11ea7c4bfe698b857af19526dd7b68.jpg" alt="My Melody" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/750x/31/6a/59/316a59ef97ec56d22e71ab2d913d1f05.jpg" alt="Pochacco" style="width:250px;height:250px" /> |
-| :---: | :---: |
-| **My Melody**  |  **Pochacco** |
-| sanrio.char         | Sanrio Character       |
+| <img src="https://i.pinimg.com/564x/6c/11/ea/6c11ea7c4bfe698b857af19526dd7b68.jpg" alt="My Melody" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/750x/31/6a/59/316a59ef97ec56d22e71ab2d913d1f05.jpg" alt="Pochacco" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/69/49/2d/69492d2b4bc73597d2bc2c8e82aa37bc.jpg" alt="Pompompurin" style="width:250px;height:250px" /> |
+| :---: | :---: | :---: |
+| **My Melody**  |  **Pochacco** |  **Pompompurin** |
+| sanrio.char         | Sanrio Character       | Sanrio Character       |
 
 [characters](characters/)  [newfolder](newfolder/)   [folderone](newfolder/)
 
