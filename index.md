@@ -12,9 +12,9 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | **Badtz-maru**  |  **Charmmy Kitty** |  **Chococat** |
 | sanrio.char         | Sanrio Character       | Sanrio Character       |
 
-| <img src="https://i.pinimg.com/1200x/09/6a/1e/096a1e18f9c623c2536ed65d860df326.jpg" alt="Chococat" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/1d/9c/fa/1d9cfa5b7db062a939a8930b2ce4e8be.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> |
+| <img src="https://i.pinimg.com/564x/1d/9c/fa/1d9cfa5b7db062a939a8930b2ce4e8be.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/1d/9c/fa/1d9cfa5b7db062a939a8930b2ce4e8be.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> |
 | :---: | :---: |
-| **Chococat**  |  **Cinnamoroll** |
+| **Cinnamoroll**  |  **Cinnamoroll** |
 | sanrio.char         | Sanrio Character       |
 
 | <img src="https://i.pinimg.com/564x/de/11/a6/de11a621fda227847d2895c8eeb4f6f6.jpg" alt="Dear Daniel" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/d4/e2/5f/d4e25f1442ed8cfe66380991fe291031.jpg" alt="Hangyodon" style="width:250px;height:250px" /> |
