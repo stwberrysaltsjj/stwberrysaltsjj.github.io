@@ -12,15 +12,10 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | **Badtz-maru**  |  **Charmmy Kitty** |  **Chococat** |
 | sanrio.char         | Sanrio Character       | Sanrio Character       |
 
-| <img src="https://i.pinimg.com/564x/1d/9c/fa/1d9cfa5b7db062a939a8930b2ce4e8be.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/1d/9c/fa/1d9cfa5b7db062a939a8930b2ce4e8be.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> |
-| :---: | :---: |
-| **Cinnamoroll**  |  **Cinnamoroll** |
-| sanrio.char         | Sanrio Character       |
-
-| <img src="https://i.pinimg.com/564x/de/11/a6/de11a621fda227847d2895c8eeb4f6f6.jpg" alt="Dear Daniel" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/d4/e2/5f/d4e25f1442ed8cfe66380991fe291031.jpg" alt="Hangyodon" style="width:250px;height:250px" /> |
-| :---: | :---: |
-| **Dear Daniel**  |  **Hangyodon** |
-| sanrio.char         | Sanrio Character       |
+| <img src="https://i.pinimg.com/564x/1d/9c/fa/1d9cfa5b7db062a939a8930b2ce4e8be.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/de/11/a6/de11a621fda227847d2895c8eeb4f6f6.jpg" alt="Dear Daniel" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/d4/e2/5f/d4e25f1442ed8cfe66380991fe291031.jpg" alt="Hangyodon" style="width:250px;height:250px" /> |
+| :---: | :---: | :--: |
+| **Cinnamoroll**  |  **Dear Daniel** |  **Hangyodon** |
+| sanrio.char         | Sanrio Character       | Sanrio Character       |
 
 | <img src="https://i.pinimg.com/564x/84/a0/74/84a07434d8b01e4996013dcc6de721a3.jpg" alt="Hello Kitty" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/45/48/49/454849fad4226a3dd949883b9c554f91.jpg" alt="Jewelpet" style="width:250px;height:250px" /> |
 | :---: | :---: |
