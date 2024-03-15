@@ -17,7 +17,7 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | **Cinnamoroll**  |  **Dear Daniel** |  **Hangyodon** |
 | sanrio.char         | Sanrio Character       | Sanrio Character       |
 
-| <img src="https://i.pinimg.com/564x/84/a0/74/84a07434d8b01e4996013dcc6de721a3.jpg" alt="Hello Kitty" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/45/48/49/454849fad4226a3dd949883b9c554f91.jpg" alt="Jewelpet" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/ea/ae/b5/eaaeb5a83b36c7386c72be8bfcfc14f0.jpg" alt="Keroppi" style="width:250px;height:250px" /> |
+| <img src="https://i.pinimg.com/564x/cb/53/47/cb534747cb10c240f91ac556bc0c2365.jpg" alt="Hello Kitty" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/45/48/49/454849fad4226a3dd949883b9c554f91.jpg" alt="Jewelpet" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/ea/ae/b5/eaaeb5a83b36c7386c72be8bfcfc14f0.jpg" alt="Keroppi" style="width:250px;height:250px" /> |
 | :---: | :---: | :---: |
 | **Hello Kitty**  |  **Jewelpet** | **Keroppi**  |
 | sanrio.char         | Sanrio Character       | Sanrio Character       |
