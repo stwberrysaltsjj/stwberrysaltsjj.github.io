@@ -15,12 +15,12 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | <img src="https://i.pinimg.com/736x/cb/03/c0/cb03c043436e124555c3f37ba614ac6b.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/19/3f/fd/193ffd65f0f0c34dcff9c28c1c7435ae.jpg" alt="Dear Daniel" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/35/fe/4b/35fe4b8056b0449d6695d6a8ad535377.jpg" alt="Hangyodon" style="width:250px;height:250px" /> |
 | :---: | :---: | :---: |
 | **Cinnamoroll**  |  **Dear Daniel** |  **Hangyodon** |
-| Cinnamoroll (シナモロール, Hepburn: Shinamorōru) Birthday: March 6, 2001        | Dear Daniel (ディアダニエル, Dia Danieru) Birthday: May 3, 1999       | Hangyodon (ハンギョドン, Hangyodon) Birthday: March 14, 1985       |
+| Cinnamoroll (シナモロール, Shinamorōru) Birthday: March 6, 2001        | Dear Daniel (ディアダニエル, Dia Danieru) Birthday: May 3, 1999       | Hangyodon (ハンギョドン, Hangyodon) Birthday: March 14, 1985       |
 
 | <img src="https://i.pinimg.com/564x/a2/82/e5/a282e52839ad56dd1c19839ef0052de7.jpg" alt="Hello Kitty" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/45/48/49/454849fad4226a3dd949883b9c554f91.jpg" alt="Jewelpet" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/736x/28/97/84/28978488aeee8b70b5253ddd092199c2.jpg" alt="Keroppi" style="width:250px;height:250px" /> |
 | :---: | :---: | :---: |
 | **Hello Kitty**  |  **Jewelpet** | **Keroppi**  |
-| sanrio.char         | Sanrio Character       | Sanrio Character       |
+| Hello Kitty (ハロー・キティ, Harō Kiti) Birthday: November 1, 1974         | Jewelpet (ジュエルペット, Juerupetto) Birthday: January 15, 2008       | Keroppi (けろけろけろっぴ, Kerokerokeroppi) Birthday: July 10, 1988       |
 
 | <img src="https://i.pinimg.com/564x/4e/d0/57/4ed057920375d08d96bc6a5ac54c9f54.jpg" alt="Kuromi" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/44/3b/d4/443bd4de657572085c92f7ad78e35974.jpg" alt="Little Twin Stars" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/ed/12/1f/ed121f003e05a73a0d7e98221fd1a272.jpg" alt="Mimmy" style="width:250px;height:250px" /> |
 | :---: | :---: | :---: |
