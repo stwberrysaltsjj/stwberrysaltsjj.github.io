@@ -12,7 +12,7 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | **Badtz-maru**  |  **Charmmy Kitty** |  **Chococat** |
 | sanrio.char         | Sanrio Character       | Sanrio Character       |
 
-| <img src="https://i.pinimg.com/736x/cb/03/c0/cb03c043436e124555c3f37ba614ac6b.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/9e/a5/4a/9ea54a9af5dbe9b94b986a7c72f605d1.jpg" alt="Dear Daniel" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/35/fe/4b/35fe4b8056b0449d6695d6a8ad535377.jpg" alt="Hangyodon" style="width:250px;height:250px" /> |
+| <img src="https://i.pinimg.com/736x/cb/03/c0/cb03c043436e124555c3f37ba614ac6b.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/19/3f/fd/193ffd65f0f0c34dcff9c28c1c7435ae.jpg" alt="Dear Daniel" style="width:250px;height:250px" /> | <img src="https://i.pinimg.com/564x/35/fe/4b/35fe4b8056b0449d6695d6a8ad535377.jpg" alt="Hangyodon" style="width:250px;height:250px" /> |
 | :---: | :---: | :---: |
 | **Cinnamoroll**  |  **Dear Daniel** |  **Hangyodon** |
 | sanrio.char         | Sanrio Character       | Sanrio Character       |
