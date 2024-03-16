@@ -1,12 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
 
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-  <!-- Custom style -->
-  <link rel="stylesheet" href="app.css">
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 </head>
+
+<div class="clearfix">
+  <div class="img-container">
+  <img src="https://i.pinimg.com/736x/e6/ab/6a/e6ab6a3af600888cd25ee15ac17a2aed.jpg" alt="Italy" style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="https://i.pinimg.com/564x/0a/0b/65/0a0b65024aa3c4742b299ad31160de47.jpg" alt="Forest" style="width:100%">
+  </div>
+</div>
 
 </html>
