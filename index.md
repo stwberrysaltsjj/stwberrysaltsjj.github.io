@@ -1,4 +1,7 @@
-<button onclick="document.location='https://stwberrysaltsjj.github.io/characters/'">Characters!</button>
+<!DOCTYPE html>
+<html>
+<button onclick="document.location='https://stwberrysaltsjj.github.io/characters/'">HTML Tutorial</button>
+</html>
 
 [badtz-maru](badtz-maru/) [charmmykitty](charmmykitty/) [chococat](chococat/) <br/>
 [cinnamoroll](cinnamoroll/) [deardaniel](deardaniel/) [hangyodon](hangyodon/) <br/>
