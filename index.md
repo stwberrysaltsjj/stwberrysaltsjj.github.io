@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+a.button {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none;
+}
 <html>
 <button onclick="document.location='https://stwberrysaltsjj.github.io/characters/'">HTML Tutorial</button>
 </html>
