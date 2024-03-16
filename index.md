@@ -7,7 +7,7 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | Left  | Right |
 --->
 
-| <a href="badtz-maru"> <img src="https://i.pinimg.com/736x/b2/1f/cf/b21fcf03cb79839cba3aa04957543464.jpg" alt = "Badtz-maru" style="width:250px;height:250px"  /> </a>| <img src="https://i.pinimg.com/564x/ec/fb/04/ecfb04082618f75467b0e27819753b44.jpg" alt = "Charmmy Kitty" style="width:250px;height:250px"/> | <img src="https://i.pinimg.com/564x/d4/fb/76/d4fb76de28c83a84d44b73d691120794.jpg" alt="Chococat" style="width:250px;height:250px" /> |
+| <a href="https://stwberrysaltsjj.github.io/badtz-maru/"> <img src="https://i.pinimg.com/736x/b2/1f/cf/b21fcf03cb79839cba3aa04957543464.jpg" alt = "Badtz-maru" style="width:250px;height:250px"  /> </a>| <img src="https://i.pinimg.com/564x/ec/fb/04/ecfb04082618f75467b0e27819753b44.jpg" alt = "Charmmy Kitty" style="width:250px;height:250px"/> | <img src="https://i.pinimg.com/564x/d4/fb/76/d4fb76de28c83a84d44b73d691120794.jpg" alt="Chococat" style="width:250px;height:250px" /> |
 | :---: | :---: | :--: |
 | **Badtz-maru**  |  **Charmmy Kitty** |  **Chococat** |
 | Bad Badtz-Maru (バッドばつ丸, Baddo batsu maru) Birthday: April 1, 1993         | Charmmy Kitty (チャーミーキティ, Chāmī kiti) Birthday: October 31, 2004       | Chococat (チョコキャット, Chokokyatto) Birthday: May 10, 1996       |
