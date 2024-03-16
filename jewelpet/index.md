@@ -1,2 +1,2 @@
-<img src="https://i.pinimg.com/564x/e6/bd/38/e6bd385a9510015df65a7488a9d029ea.jpg" alt="jewelpet">
+<img src="https://i.pinimg.com/564x/64/e2/8b/64e28baa6683e8193767cc8e30305230.jpg" alt="jewelpet">
 
