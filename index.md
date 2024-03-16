@@ -1,5 +1,4 @@
-
-<p><a href="https://stwberrysaltsjj.github.io/characters/">Characters!</a></p>
+<button onclick="document.location='https://stwberrysaltsjj.github.io/characters/'">Characters!</button>
 
 [badtz-maru](badtz-maru/) [charmmykitty](charmmykitty/) [chococat](chococat/) <br/>
 [cinnamoroll](cinnamoroll/) [deardaniel](deardaniel/) [hangyodon](hangyodon/) <br/>
