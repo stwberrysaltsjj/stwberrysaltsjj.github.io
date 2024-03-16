@@ -32,7 +32,7 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | **My Melody**  |  **Pochacco** |  **Pompompurin** |
 | My Melody (マイメロディ, Mai Merodi) Birthday: January 18, 1975         | Pochacco (ポチャッコ, Pochakko) Birthday: Febuary 29, 1989       | Pompompurin (ポムポムプリン, Pomupomupurin) Birthday: April 16, 1996       |
 
-[badtz-maru](badtz-maru/) [charmmykitty](charmmykitty/) [chococat](chococat/) 
+[badtz-maru](badtz-maru/) [charmmykitty](charmmykitty/) [chococat](chococat/) <br/>
 [cinnamoroll](cinnamoroll/) [deardaniel](deardaniel/) [hangyodon](hangyodon/) 
 [hellokitty](hellokitty/) [jewelpet](jewelpet/) [keroppi](keroppi/) 
 [kuromi](kuromi/) [littletwinstars](littletwinstars/) [mimmy](mimmy/) 
