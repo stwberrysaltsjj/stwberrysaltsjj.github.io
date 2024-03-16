@@ -7,10 +7,10 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 | Left  | Right |
 --->
 
-| <a href="https://stwberrysaltsjj.github.io/badtz-maru/"> <img src="https://i.pinimg.com/736x/b2/1f/cf/b21fcf03cb79839cba3aa04957543464.jpg" alt = "Badtz-maru" style="width:250px;height:250px"  /> </a>| <a href="https://stwberrysaltsjj.github.io/charmmykitty/"> <img src="https://i.pinimg.com/564x/ec/fb/04/ecfb04082618f75467b0e27819753b44.jpg" alt = "Charmmy Kitty" style="width:250px;height:250px"/> </a>| <a href="https://stwberrysaltsjj.github.io/chococat/"> <img src="https://i.pinimg.com/564x/d4/fb/76/d4fb76de28c83a84d44b73d691120794.jpg" alt="Chococat" style="width:250px;height:250px" /> </a>|
-| :---: | :---: | :--: |
-| **Badtz-maru**  |  **Charmmy Kitty** |  **Chococat** |
-| Bad Badtz-Maru (バッドばつ丸, Baddo batsu maru) Birthday: April 1, 1993         | Charmmy Kitty (チャーミーキティ, Chāmī kiti) Birthday: October 31, 2004       | Chococat (チョコキャット, Chokokyatto) Birthday: May 10, 1996       |
+| <a href="https://stwberrysaltsjj.github.io/badtz-maru/"> <img src="https://i.pinimg.com/736x/b2/1f/cf/b21fcf03cb79839cba3aa04957543464.jpg" alt = "Badtz-maru" style="width:250px;height:250px"  /> </a>| <a href="https://stwberrysaltsjj.github.io/charmmykitty/"> <img src="https://i.pinimg.com/564x/ec/fb/04/ecfb04082618f75467b0e27819753b44.jpg" alt = "Charmmy Kitty" style="width:250px;height:250px"/> </a>| <a href="https://stwberrysaltsjj.github.io/chococat/"> <img src="https://i.pinimg.com/564x/d4/fb/76/d4fb76de28c83a84d44b73d691120794.jpg" alt="Chococat" style="width:250px;height:250px" /> </a>| <a href="https://stwberrysaltsjj.github.io/cinnamoroll/"> <img src="https://i.pinimg.com/736x/cb/03/c0/cb03c043436e124555c3f37ba614ac6b.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> </a>|
+| :---: | :---: | :--: | :--: |
+| **Badtz-maru**  |  **Charmmy Kitty** |  **Chococat** |  **Cinnamoroll** |
+| Bad Badtz-Maru (バッドばつ丸, Baddo batsu maru) Birthday: April 1, 1993         | Charmmy Kitty (チャーミーキティ, Chāmī kiti) Birthday: October 31, 2004       | Chococat (チョコキャット, Chokokyatto) Birthday: May 10, 1996       | Cinnamoroll (シナモロール, Shinamorōru) Birthday: March 6, 2001        |
 
 | <a href="https://stwberrysaltsjj.github.io/cinnamoroll/"> <img src="https://i.pinimg.com/736x/cb/03/c0/cb03c043436e124555c3f37ba614ac6b.jpg" alt="Cinnamoroll" style="width:250px;height:250px" /> </a>| <a href="https://stwberrysaltsjj.github.io/deardaniel/"> <img src="https://i.pinimg.com/564x/19/3f/fd/193ffd65f0f0c34dcff9c28c1c7435ae.jpg" alt="Dear Daniel" style="width:250px;height:250px" /> </a>| <a href="https://stwberrysaltsjj.github.io/hangyodon/"> <img src="https://i.pinimg.com/564x/35/fe/4b/35fe4b8056b0449d6695d6a8ad535377.jpg" alt="Hangyodon" style="width:250px;height:250px" /> </a>|
 | :---: | :---: | :---: |
