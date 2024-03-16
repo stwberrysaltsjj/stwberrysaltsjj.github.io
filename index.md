@@ -37,7 +37,7 @@ https://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-
 [hellokitty](hellokitty/) [jewelpet](jewelpet/) [keroppi](keroppi/) <br/>
 [kuromi](kuromi/) [littletwinstars](littletwinstars/) [mimmy](mimmy/) <br/>
 [mymelody](mymelody/) [pochacco](pochacco/) [pompompurin](pompompurin/) <br/>
-[newfolder](newfolder/) [folderone](newfolder/)
+[characters](characters/) [newfolder](newfolder/) [folderone](newfolder/)
 
 
   
