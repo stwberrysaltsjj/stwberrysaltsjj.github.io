@@ -10,7 +10,7 @@ let model;
 function displayDescription(predictions) {
   // Sort by probability
   console.log(predictions);
- const result = predictions.sort((a, b) =>  b.probability>a.probability)[0];
+ const result = predictions.sort((a, b) =>  a.probability>b.probability)[0];
 
 
   if (result.probability > 0.2) {
