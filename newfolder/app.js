@@ -13,7 +13,7 @@ function displayDescription(predictions) {
  const result = predictions.sort((a, b) =>  a.probability>b.probability)[0];
 
 
-  if (result.probability > 0.2) {
+  if (result.probability > 0.1) {
     const probability = Math.round(result.probability * 100);
 
     // Display result
