@@ -18,8 +18,8 @@ const result = predictions.sort((a, b) =>  b.probability-a.probability)[0];
     description.innerText = `${probability}% shure this is a ${result.className.replace(
       ",",
       " or"
-    )} 🐶`;
-  } else description.innerText = "I am not shure what I should recognize 😢";
+    )} 🐱`;
+  } else description.innerText = "I am not sure what I should recognize 😢";
 }
 
 /**
