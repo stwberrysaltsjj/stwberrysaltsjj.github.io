@@ -7,13 +7,8 @@
     <link rel="stylesheet" href="app.css">
 </head>
 <body>
-    <div class="header">
-        This is my header
-    </div>
-    <div class="content">
-        <!-- Your page content goes here -->
-        <p>This is some content below the header.</p>
-    </div>
+    <div class="header"> </div>
+    <div class="content"> </div>
 </body>
 </html>
 
