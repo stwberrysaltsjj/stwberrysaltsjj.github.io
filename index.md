@@ -1,3 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Header Example</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+    <div class="header">
+        This is my header
+    </div>
+    <div class="content">
+        <!-- Your page content goes here -->
+        <p>This is some content below the header.</p>
+    </div>
+</body>
+</html>
+
 [characters](characters/)
  <br/>
  <br/>
