@@ -1,4 +1,7 @@
 .header {
     background-color: #eaf6fb;
-    padding: 10px 20 px;
+    padding: 10px 0; /* Adjust top and bottom padding */
+    margin: 0; /* Remove default margin */
+    width: 100%; /* Make header span the entire width */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
