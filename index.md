@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="app.css">
 </head>
 <body>
-    <h1 style="background-color:#eaf6fb;;">HI</h1> 
+    <h2 style="background-color:#eaf6fb;;">Character Goodies   Hello Kitty Cafe</h2> 
     <div class="content"> </div>
 </body>
 </html>
