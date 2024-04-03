@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="app.css">
 </head>
 <body>
-    <h1 style="background-color:#eaf6fb;;"></h1> 
+    <h1 style="background-color:#eaf6fb;;">HI</h1> 
     <div class="content"> </div>
 </body>
 </html>
