@@ -88,12 +88,12 @@ section {
   display: block;
   color: #000000;
   padding: 10px;
-  text-decoration: none;
-  width:500px;   
+  text-decoration: none;  
 
 }
 .dropdown-content a:hover {
   color: #000000;
   background-color: #FFFFFF;
+  width:500px;   
 }
 
