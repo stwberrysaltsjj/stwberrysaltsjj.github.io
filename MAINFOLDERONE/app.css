@@ -89,11 +89,11 @@ section {
   color: #000000;
   padding: 1px;
   text-decoration: none;
+  width:150px;   
+
 }
 .dropdown-content a:hover {
   color: #000000;
   background-color: #FFFFFF;
 }
-#dropdown{
- width:150px;   
-}
+
