@@ -1,16 +1,9 @@
 body {
   font-family: "Source Sans Pro", sans-serif;
 }
-<style>
-        .header {
-            background-color: rgb(234,246,252); /* The blue color you wanted */
-            color: black;
-            padding: 10px; /* Optional: add some padding */
-        }
-        .header img {
-            vertical-align: middle;
-        }
-</style>
+top-header {
+    background-color: blue;
+}
 main {
   width: 100%;
   min-height: 100vh;
