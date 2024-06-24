@@ -2,6 +2,10 @@ body {
   font-family: "Source Sans Pro", sans-serif;
 }
 
+.header {
+    background-color: #ADD8E6; /* Light blue color */
+}
+
 main {
   width: 100%;
   min-height: 100vh;
