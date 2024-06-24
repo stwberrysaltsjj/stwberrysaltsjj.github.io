@@ -4,6 +4,15 @@ body {
 top-header {
     background-color: blue;
 }
+<style>
+  .hover-zoom {
+  transition: transform 0.5s ease;
+  }
+
+  .hover-zoom:hover {
+  transform: scale(1.1);
+  }
+</style>
 main {
   width: 100%;
   min-height: 100vh;
