@@ -16,13 +16,13 @@ main {
   align-items: center;
   flex-direction: column;
 }
-header {
+/* header {
   background-color: rgb(234,246,252);
   padding: 30px;
   text-align: center;
   font-size: 35px;
   color: white;
-}
+} */
 section {
   margin: 2rem 1rem;
 }
