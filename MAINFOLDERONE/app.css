@@ -4,6 +4,9 @@ body {
 top-header {
     background-color: blue;
 }
+image.hover-zoom{
+vertical-align: middle;
+} 
 
 main {
   width: 100%;
